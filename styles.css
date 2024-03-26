@@ -5,8 +5,8 @@ body, html {
 }
 #game-container {
     position: relative;
-    width: 1000px;
-    height: 1000px;
+    width: 500px;
+    height: 500px;
     margin: 50px auto;
     border: 2px solid black;
 }
